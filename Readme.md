@@ -40,7 +40,7 @@ Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/fronten
     * b) Follow prewritten instruction (we already provided prewritten files for more clarity)
 
 > ## Got feedback for us?
-We love receiving feedback! We're always looking to know which types of project should we add more. So if you have anything you'd like to mention, please email [Frontends Projects](mailto:frontendsprojects@gmail.com)
+We love receiving feedback! We're always looking to know which types of project should we add more. So if you have anything you'd like to mention, please email at frontendsprojects@gmail.com
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 **Have fun building!** 🚀

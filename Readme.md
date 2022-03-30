@@ -11,8 +11,8 @@ Tutorial : [Tutorialurl](https://frontendsprojects.teachable.com/courses/fronten
 
 ---
 
-### Project brief
-#### Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+### Project Brief
+#### In this tutorial we'll learn how to create cool 3d social media icon using html and css , we'll use font awesome icon library for icons 
 
 # Building project
 > ### Before building project init your project as a public repo 
